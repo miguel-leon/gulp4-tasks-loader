@@ -1,0 +1,27 @@
+{
+  "name": "gulp4-tasks-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguel-leon/gulp4-tasks-loader.git"
+  },
+  "keywords": [
+    "gulp4",
+    "tasks",
+    "loader"
+  ],
+  "author": "Miguel Leon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miguel-leon/gulp4-tasks-loader/issues"
+  },
+  "homepage": "https://github.com/miguel-leon/gulp4-tasks-loader#readme",
+  "devDependencies": {
+    "require-directory": "^2.1.1"
+  }
+}
